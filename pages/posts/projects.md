@@ -1,7 +1,7 @@
 ---
 title: my prjects
 date: 2023/7/14
-description: languages i use in projects.
+description: project i make
 tag: languages
 author: Rossini Roberto
 ---
@@ -11,3 +11,6 @@ author: Rossini Roberto
  **Backdoor project in python** [Project](https://github.com/rossiniroberto52/backdoor)
 
  **management app in CSharp** [Project](https://github.com/rossiniroberto52/sistemadeTransporteEscolar)
+
+ # another projects in my Github
+ **My github** [Github](https://github.com/rossiniroberto52)
