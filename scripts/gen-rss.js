@@ -6,7 +6,7 @@ const matter = require('gray-matter')
 async function generate() {
   const feed = new RSS({
     title: 'Rossini Roberto',
-    site_url: 'https://yoursite.com',
+    site_url: 'my-port-nu.vercel.app',
     feed_url: 'https://yoursite.com/feed.xml'
   })
 
