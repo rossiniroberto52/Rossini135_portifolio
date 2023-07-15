@@ -6,7 +6,7 @@ tag: languages
 author: Rossini Roberto
 ---
 
-# at the moment i learn that languages and frameworks
+# at the moment i learning that languages and frameworks
 # languages
 - java
 - kotlin
