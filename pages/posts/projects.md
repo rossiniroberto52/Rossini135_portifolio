@@ -2,7 +2,7 @@
 title: my prjects
 date: 2023/7/14
 description: project i make
-tag: languages
+tag: projects
 author: Rossini Roberto
 ---
 
