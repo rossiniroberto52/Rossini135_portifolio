@@ -9,5 +9,6 @@ author: Rossini Roberto
 # at the moment i learn that languages and frameworks
 # languages
 - java
+- kotlin
 # frameworks
 - no one at the moment
