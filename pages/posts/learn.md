@@ -7,7 +7,7 @@ author: Rossini Roberto
 ---
 
 # at the moment i learn that languages and frameworks
-**languages**
+# languages
 - java
-**frameworks**
--no one at the moment
+# frameworks
+- no one at the moment
