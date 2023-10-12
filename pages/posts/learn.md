@@ -8,7 +8,7 @@ author: Rossini Roberto
 
 # at the moment i learning that languages and frameworks
 # languages
-- java
+- c++
 - kotlin
 # frameworks
 - no one at the moment
