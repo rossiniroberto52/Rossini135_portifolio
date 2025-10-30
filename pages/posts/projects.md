@@ -1,14 +1,17 @@
 ---
 title: my prjects
 date: 2023/7/14
-description: project i make
+description: some projects i make since years
 tag: projects
 author: Rossini Roberto
 ---
 
 # projects
 
- **management app in CSharp** [Project](https://github.com/rossiniroberto52/sistemadeTransporteEscolar)
+ **Management app in CSharp** [Sistema de gerenciamento para trasporte escolar](https://github.com/rossiniroberto52/sistemadeTransporteEscolar)
+ **Mimple game egine in C++** [simple game engine](https://github.com/rossiniroberto52/gameengine)
+ **Manangement system for BOLINHOS in c#** [Sistema de pedidos para BOLINHOS](https://github.com/rossiniroberto52/Bolinhos)
+ **simple backdoor(for testing) in python** [simple backdoor](https://github.com/rossiniroberto52/backdoor)
 
  # nother projects in my Github
- **My github** [Github](https://github.com/rossiniroberto52)
+ **My ** [Github](https://github.com/rossiniroberto52)

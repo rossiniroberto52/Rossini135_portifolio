@@ -1,7 +1,10 @@
 ---
 type: posts
 title: Posts
-date: 2021-03-18
+date: 30/10/2025
 ---
 
-# Posts
+# Reach-Me
+
+**email: rossiniroberto52@gmail.com**
+**github: **[rossiniroberto52](https://github.com/rossiniroberto52)
